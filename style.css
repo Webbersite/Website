@@ -8,5 +8,8 @@ body {
 }
 main{
 	font-style: oblique;
-	text-align: center;
+}
+
+h1{
+	text-align: right;
 }
