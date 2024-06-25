@@ -7,7 +7,6 @@ body {
 	
 }
 main{
-	color: brown;
 	font-style: oblique;
-
+	text-decoration-color: brown;
 }
